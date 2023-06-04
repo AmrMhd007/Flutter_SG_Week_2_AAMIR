@@ -1,0 +1,4 @@
+#Mon Jun 05 02:06:19 GST 2023
+base.0=C\:\\androidstudio\\WORKS\\Flutter-SG-Week-2-AAMIR\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
